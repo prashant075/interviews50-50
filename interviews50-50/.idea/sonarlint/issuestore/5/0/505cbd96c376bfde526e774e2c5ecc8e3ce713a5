@@ -1,10 +1,0 @@
-
-r
-java:S3077	"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(êµøÿÿÿÿ
-r
-java:S3077
-"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ø½ßËùÿÿÿÿ
-m
-java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ºëÄâ
-]
-java:S1182 "HUse super.clone() to create and seed the cloned instance to be returned.(™”” 

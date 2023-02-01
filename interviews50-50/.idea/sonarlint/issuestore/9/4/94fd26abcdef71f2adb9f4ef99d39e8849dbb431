@@ -1,11 +1,0 @@
-
-k
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÓÀÌüÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ì£¦ýÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Œüš…øÿÿÿÿ
-\
-java:S1126*"AReplace this if-then-else statement by a single return statement.(¤«»·ùÿÿÿÿ
-V	java:S1251"<This block of commented-out lines of code should be removed.(ÒéõŸþÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

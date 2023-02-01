@@ -1,17 +1,0 @@
-
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Ê†˜ÞÅ0
-z	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Ê†˜ÞÅ0
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜Âõöýÿÿÿÿ8Ê†˜ÞÅ0
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö‚ßÁ8Ë†˜ÞÅ0
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ó†˜ÞÅ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰©Ÿˆüÿÿÿÿ8Ô†˜ÞÅ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÜ×Üþÿÿÿÿ8Ö†˜ÞÅ0
-T	java:S106 "9Replace this use of System.out or System.err by a logger.(¿¯¡W8Ö†˜ÞÅ0
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(¥Ð¯§8Ö†˜ÞÅ0
-{
-java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×†˜ÞÅ0
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(º¾¬òûÿÿÿÿ8×†˜ÞÅ0
-T	java:S1069"9Replace this use of System.out or System.err by a logger.(¡ÑŒ8Ø†˜ÞÅ0
-U	java:S106<"9Replace this use of System.out or System.err by a logger.(à½®À8Ø†˜ÞÅ0
-T	java:S106?"9Replace this use of System.out or System.err by a logger.(ôñï8Ø†˜ÞÅ0

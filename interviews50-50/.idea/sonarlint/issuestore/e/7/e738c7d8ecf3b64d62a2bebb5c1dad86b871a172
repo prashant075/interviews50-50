@@ -1,9 +1,0 @@
-
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…º›çûÿÿÿÿ8¤¼ÔµÒ0
-r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¦–«ÿÿÿÿÿ8¤¼ÔµÒ0
-h	java:S116"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æƒý¬
-p	java:S116	"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ô†úÿÿÿÿ
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëþå¤üÿÿÿÿ8§¼ÔµÒ0
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…º›çûÿÿÿÿ8§¼ÔµÒ0
-j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü·çÈ8¨¼ÔµÒ0
-o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¦–«ÿÿÿÿÿ8¨¼ÔµÒ0
