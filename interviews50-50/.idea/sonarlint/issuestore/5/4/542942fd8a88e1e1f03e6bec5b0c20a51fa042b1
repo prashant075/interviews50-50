@@ -1,0 +1,19 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(«ò… úÿÿÿÿ
+?
+java:S2129	"$Remove this "BigInteger" constructor(÷œÊîıÿÿÿÿ
+9
+java:S2129
+"$Remove this "BigInteger" constructor(¥àÕS
+:
+java:S2129"$Remove this "BigInteger" constructor(Ø­¦ë
+=
+java:S2201"'The return value of "add" must be used.(İ‹ÔÃ
+B
+java:S2201"'The return value of "add" must be used.(¿Ó™¢şÿÿÿÿ
+B
+java:S2201"'The return value of "add" must be used.(ûÆ•Êûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ò… úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ

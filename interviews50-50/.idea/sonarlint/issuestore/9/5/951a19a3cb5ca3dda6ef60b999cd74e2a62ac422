@@ -1,0 +1,21 @@
+
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8âÇö´Ò0
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ãÇö´Ò0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø°ç‘8ãÇö´Ò0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö‚ßÁ8ãÇö´Ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è‡Ôşüÿÿÿÿ8ñÇö´Ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò¢Ş÷ûÿÿÿÿ8ñÇö´Ò0
+M
+java:S2446"0"notify" may not wake up the appropriate thread.(ŒâÌ†8òÇö´Ò0
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8òÇö´Ò0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(’…å8òÇö´Ò0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ïğ®ùÿÿÿÿÿ8òÇö´Ò0
+M
+java:S2446%"0"notify" may not wake up the appropriate thread.(ŒâÌ†8óÇö´Ò0
+e
+java:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8óÇö´Ò0
+{
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ôÇö´Ò0
+{
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8õÇö´Ò0

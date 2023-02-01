@@ -1,0 +1,8 @@
+
+ƒ
+java:S1488,"aImmediately return this expression instead of assigning it to the temporary variable "hotelList".(õ¬úúÿÿÿÿ8­ë¡ÔÇ0
+e
+java:S2259!"CA "NullPointerException" could be thrown; "hotel" is nullable here.(î¬µ¨ûÿÿÿÿ8²ë¡ÔÇ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(èœê8¶ë¡ÔÇ0
+X	java:S125 "<This block of commented-out lines of code should be removed.(öÃı˜8¶ë¡ÔÇ0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¿äâÔ8·ë¡ÔÇ0

@@ -1,0 +1,9 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŸÇİ8ÆÂØ Ä0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åŸÇİ8ÆÂØ Ä0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Îã¾¿8ıÄØ Ä0
+W	java:S125,"<This block of commented-out lines of code should be removed.(Ìçµ8¹ÅØ Ä0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ºÅØ Ä0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ºÅØ Ä0

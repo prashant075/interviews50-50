@@ -1,0 +1,21 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Î½ºğ8ëÊÔæÆ0
+H
+java:S1172"+Remove this unused method parameter "args".(Î½ºğ8Ğ­•€È0
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(µ¢™Ñøÿÿÿÿ8ìÊÔæÆ0
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ªûç•ıÿÿÿÿ8ìÊÔæÆ0
+U
+java:S3878"8Remove this array creation and simply pass the elements.(ÕÙ‚Õ8ìÊÔæÆ0
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(â†ˆ’ıÿÿÿÿ8ìÊÔæÆ0
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(§µÊ·8ìÊÔæÆ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8íÊÔæÆ0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(÷Ïù¡øÿÿÿÿ8îÊÔæÆ0
+o
+java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ò¯–€È0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(µÈÛÏ8îÊÔæÆ0
+U	java:S106="9Replace this use of System.out or System.err by a logger.(–‹¡Ú8ëÕ“€È0

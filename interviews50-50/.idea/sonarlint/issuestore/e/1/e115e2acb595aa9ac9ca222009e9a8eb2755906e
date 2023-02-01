@@ -1,0 +1,23 @@
+
+Q
+java:S1066G"/Merge this if statement with the enclosing one.(â”è¿ûÿÿÿÿ8ŽüÑÞÇ0
+^
+java:S4973F"<Strings and Boxed types should be compared using "equals()".(Ø±ªùÿÿÿÿ8üÑÞÇ0
+
+java:S1450"_Remove the "intialPlayerSize" field and declare it as a local variable in the relevant methods.(ˆ¤‰ùÿÿÿÿ8ÖýÑÞÇ0
+R
+java:S3010"0Remove this assignment of "snakeAndLadderBoard".(üÖ··ÿÿÿÿÿ8ØýÑÞÇ0
+W
+java:S2209"5Change this instance-reference to a static reference.(üÖ··ÿÿÿÿÿ8ÙýÑÞÇ0
+X
+java:S2696B"6Make the enclosing method "static" or remove this set.(æ·ºÌýÿÿÿÿ8ÞýÑÞÇ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ºÉÈÞüÿÿÿÿ8ßýÑÞÇ0
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Ï¿¡øÿÿÿÿ8àýÑÞÇ0
+]	java:S125["<This block of commented-out lines of code should be removed.(øøÞÕüÿÿÿÿ8áýÑÞÇ0
+T	java:S106c"9Replace this use of System.out or System.err by a logger.(™÷ÉF8âýÑÞÇ0
+V
+java:S1068"4Remove this unused "intialPlayerSize" private field.(ˆ¤‰ùÿÿÿÿ8ãýÑÞÇ0
+L
+java:S1068	"/Remove this unused "isCompleted" private field.(ô¤Ì…8ãýÑÞÇ0
+N
+java:S1068",Remove this unused "noOfDice" private field.(•Àô¯øÿÿÿÿ8ãýÑÞÇ0
